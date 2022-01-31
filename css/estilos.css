@@ -1,5 +1,9 @@
 body{
     text-align: center;
     font-family: 'Times New Roman', Times, serif ;
-    color: darkgrey;
+    background-color: burlywood;
+}
+h1 {
+    color: darkslateblue;
+
 }
